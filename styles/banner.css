@@ -5,10 +5,15 @@
     padding: 2.5em 2em;
 }
 
+
 .banner__titulo {
+    color: darkred;
     font-size: 18px;
-    font-weight: 700;
+    font-weight: 250;
+    margin-top: 1%;
+    margin-bottom: 1%;
 }
+
 
 .banner__texto {
     font-weight: 500;
